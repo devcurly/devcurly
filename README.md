@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @devcurly
-- 👀 I’m interested in making video game mods and websites
-- 🌱 I’m currently learning csharp and javascript
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me my discord (dev.curly)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i can drive a firetruck
+4VavMUTGQHwimMQsd2MMZ1/9yT1vRfH6kkIAErAGeL1YiwgAZboKOy1ZbpHlD5vGrX8H2mMVJ5KgxKbMABRMgZgJKJ/Wb20fBINJxReLTXnc5lT7ls4WH7FM9ZOss4nioXCaw9FusxfG5tB7KzJdMGU9HEvmYE+9ufxaXIgDF71o1jWKMgdVeoRJmJtm7560iHQyohj6CAemIuYu4pGtyw==
 
-<!---
-devcurly/devcurly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+usethistounderstand
